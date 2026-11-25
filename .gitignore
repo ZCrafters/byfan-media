@@ -1,0 +1,5 @@
+# jangan commit file besar yang tidak dipakai, dan jangan pernah taruh kredensial
+*.txt
+!media_index.json
+Thumbs.db
+.DS_Store
